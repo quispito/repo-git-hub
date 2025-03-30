@@ -1,2 +1,2 @@
 # repo-git-hub
-Repositorio académico
+Repositorio académico personal
